@@ -1699,6 +1699,17 @@ Fennel:
   extensions:
   - ".fnl"
   language_id: 239946126
+
+Fetch:
+  type: programming
+  color: "#535d99"
+  extensions:
+  - ".fetc"
+  -".fet"
+  tm_scope: none
+  ace_mode: text
+  language_id: 432
+ 
 Filebench WML:
   type: programming
   color: "#F6B900"
