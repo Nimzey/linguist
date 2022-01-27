@@ -1,0 +1,4 @@
+main:
+  x -> "hello world"
+  msg    x
+return.
